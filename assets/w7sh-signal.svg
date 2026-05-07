@@ -1,0 +1,35 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">W7SH Signal Stack</title>
+  <desc id="desc">Dark sci-fi W7SH profile banner with neon grid and signal lines.</desc>
+  <rect width="1200" height="360" fill="#06090f"/>
+  <rect x="1" y="1" width="1198" height="358" stroke="#13313b" stroke-width="2"/>
+  <g opacity="0.28">
+    <path d="M0 300H1200" stroke="#12313a"/>
+    <path d="M0 250H1200" stroke="#12313a"/>
+    <path d="M0 200H1200" stroke="#12313a"/>
+    <path d="M0 150H1200" stroke="#12313a"/>
+    <path d="M0 100H1200" stroke="#12313a"/>
+    <path d="M100 0V360" stroke="#12313a"/>
+    <path d="M200 0V360" stroke="#12313a"/>
+    <path d="M300 0V360" stroke="#12313a"/>
+    <path d="M400 0V360" stroke="#12313a"/>
+    <path d="M500 0V360" stroke="#12313a"/>
+    <path d="M600 0V360" stroke="#12313a"/>
+    <path d="M700 0V360" stroke="#12313a"/>
+    <path d="M800 0V360" stroke="#12313a"/>
+    <path d="M900 0V360" stroke="#12313a"/>
+    <path d="M1000 0V360" stroke="#12313a"/>
+    <path d="M1100 0V360" stroke="#12313a"/>
+  </g>
+  <path d="M90 262L230 120L365 202L505 78L646 186L790 112L930 238L1110 96" stroke="#00e5ff" stroke-width="3"/>
+  <path d="M90 300L230 238L365 270L505 210L646 258L790 224L930 286L1110 198" stroke="#39ff14" stroke-width="2" opacity="0.72"/>
+  <circle cx="230" cy="120" r="7" fill="#00e5ff"/>
+  <circle cx="505" cy="78" r="7" fill="#00e5ff"/>
+  <circle cx="790" cy="112" r="7" fill="#00e5ff"/>
+  <circle cx="1110" cy="96" r="7" fill="#00e5ff"/>
+  <text x="72" y="116" fill="#e8fbff" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="800" letter-spacing="8">W7SH</text>
+  <text x="78" y="162" fill="#39ff14" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" letter-spacing="4">SIGNAL STACK // PRIVATE OPS // MEDIA INTELLIGENCE</text>
+  <text x="80" y="220" fill="#9aa4b2" font-family="Arial, Helvetica, sans-serif" font-size="18">gamebot   moviebot   admin desktop   infrastructure   website</text>
+  <rect x="80" y="244" width="310" height="34" rx="4" fill="#0b111b" stroke="#1f3c46"/>
+  <text x="98" y="267" fill="#00e5ff" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="2">BUILD QUIET SYSTEMS THAT STAY READABLE</text>
+</svg>
