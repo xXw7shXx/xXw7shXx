@@ -2,18 +2,44 @@
   <img src="assets/w7sh-signal.svg" alt="W7SH Signal Stack banner" width="100%">
 </p>
 
-# W7SH
+<pre align="center">
+██╗    ██╗███████╗███████╗██╗  ██╗
+██║    ██║╚════██║██╔════╝██║  ██║
+██║ █╗ ██║    ██╔╝███████╗███████║
+██║███╗██║   ██╔╝ ╚════██║██╔══██║
+╚███╔███╔╝   ██║  ███████║██║  ██║
+ ╚══╝╚══╝    ╚═╝  ╚══════╝╚═╝  ╚═╝
+        SIGNAL STACK // PRIVATE OPS // MEDIA INTELLIGENCE
+</pre>
 
-Private software ecosystem for game alerts, movie and TV intelligence, operations tooling, and production infrastructure. The work is designed around clear release discipline, clean source exports, explicit secret boundaries, and maintainable operator workflows.
+<h1 align="center">W7SH</h1>
 
-![Profile](https://img.shields.io/badge/profile-W7SH-0b0f14?style=for-the-badge)
-![Stack](https://img.shields.io/badge/stack-python%20%2B%20fastapi%20%2B%20electron-00e5ff?style=for-the-badge)
-![Ops](https://img.shields.io/badge/focus-private%20ops%20automation-39ff14?style=for-the-badge)
-![Releases](https://img.shields.io/badge/standard-semver%20%2B%20changelog-9aa4b2?style=for-the-badge)
+<p align="center">
+  Private software ecosystem for game alerts, movie and TV intelligence, operations tooling, and production infrastructure.
+</p>
+
+<p align="center">
+  <img alt="Profile" src="https://img.shields.io/badge/profile-W7SH-0b0f14?style=for-the-badge">
+  <img alt="Stack" src="https://img.shields.io/badge/stack-python%20%2B%20fastapi%20%2B%20electron-00e5ff?style=for-the-badge">
+  <img alt="Ops" src="https://img.shields.io/badge/focus-private%20ops%20automation-39ff14?style=for-the-badge">
+  <img alt="Releases" src="https://img.shields.io/badge/standard-semver%20%2B%20changelog-9aa4b2?style=for-the-badge">
+</p>
+
+The work is designed around clear release discipline, clean source exports, explicit secret boundaries, and maintainable operator workflows.
 
 ## Signal
 
 W7SH is a private, service-oriented stack for monitoring games, movies, user preferences, recommendations, and operational health. The core repositories are intentionally private, but the public profile documents the shape of the ecosystem and the engineering standards used across it.
+
+```text
+┌─ W7SH CONTROL PLANE ─────────────────────────────────────────────┐
+│  gamebot     -> game discovery, free alerts, store intelligence  │
+│  moviebot    -> media discovery, recommendations, AI responses   │
+│  admin       -> desktop and web operations console               │
+│  infra       -> private deployment fabric and rollback overlays  │
+│  website     -> public landing, legal pages, aggregate stats     │
+└──────────────────────────────────────────────────────────────────┘
+```
 
 ## Ecosystem
 
