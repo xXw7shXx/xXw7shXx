@@ -38,6 +38,7 @@ W7SH is a private, service-oriented stack for monitoring games, movies, user pre
 │  admin       -> desktop and web operations console               │
 │  infra       -> private deployment fabric and rollback overlays  │
 │  website     -> public landing, legal pages, aggregate stats     │
+│  arcade      -> public W7SH Space Invaders experiment            │
 └──────────────────────────────────────────────────────────────────┘
 ```
 
@@ -50,7 +51,7 @@ W7SH is a private, service-oriented stack for monitoring games, movies, user pre
 | `w7sh-admin` | FastAPI admin backend, browser console, and secure Electron desktop operations app. | Private core |
 | `w7sh-infra` | Docker Compose deployment fabric, private networks, PostgreSQL, monitoring, proxy management, and rollback overlays. | Private core |
 | `w7sh-website` | Public landing surface, bilingual pages, legal routes, health check, and internal stats aggregation. | Private core |
-| `space_invaders` | Public arcade project and Python game experiment. | Public |
+| `space_invaders` | Enhanced neon arcade shooter with levels, shields, power-ups, enemy fire, particles, and headless validation. | Public |
 
 ## Engineering Standard
 
@@ -73,7 +74,7 @@ Every W7SH repository is expected to keep its README current, document env vars 
 
 ## Public Links
 
-- Public project: [space_invaders](https://github.com/xXw7shXx/space_invaders)
+- Public arcade project: [space_invaders](https://github.com/xXw7shXx/space_invaders)
 - Profile source: [xXw7shXx](https://github.com/xXw7shXx/xXw7shXx)
 
 Private repositories are visible only to authorized collaborators.
